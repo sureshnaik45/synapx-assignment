@@ -4,29 +4,46 @@
 
 The system intelligently extracts data from PDF/txt files, validates mandatory fields, checks for fraud indicators, and routes claims to the appropriate workflow queue using a deterministic Rule Engine.
 
-## Features
+## System Architecture, Workflow & Features
 
-* **AI-Powered Extraction**
-    Utilizes **Llama 3.3 (via Groq)** to extract 15+ key data points (Policy #, Date, Location, Asset ID, etc.) from txt/pdf files.
+The application follows a linear, deterministic flow to ensure security and accuracy:
 
-* **Secure Gatekeeper & Validation**
-    * **Spam Prevention:** The system implements a strict "Gatekeeper" rule. If an uploaded document is not a valid insurance claim (e.g., random text, marketing material, or corrupt files), it is **immediately rejected**.
-    * **No "Hallucinations":** Unlike basic demos that return fake data on error, this agent returns `null` for missing fields, triggering a "Manual Review" or "Rejection" to ensure 100% data integrity.
+1.  **Ingestion:** User uploads a document (PDF/TXT) via the React Frontend.
+2.  **Secure Transmission:** File is sent to the Node.js/Express backend via a secure API endpoint.
+3.  **Gatekeeper Check:** The system instantly validates the file type and rejects non-insurance documents.
+4.  **Extraction:**
+    * **Text Analysis:** Raw text is extracted using `pdf2json` or native `fs`.
+    * **AI-Powered Extraction:** The text is sent to **Llama 3.3 (Groq)** with a strict system prompt to extract 15+ fields verbatim.
+5.  **Logic Engine:** The **Rule Engine** evaluates the extracted data against business rules (Fraud limits, Injury checks, Damage thresholds).
+6.  **Response:** The final decision (Route + Reasoning) is returned to the Frontend for display.
 
-* **Intelligent Routing Engine**
+[User Upload] 
+      ⬇
+[React Frontend] --(API Request)--> [Express Backend]
+                                          ⬇
+                                  [Gatekeeper Validation]
+                                          ⬇
+                                  [AI Service (Llama 3)]
+                                          ⬇
+                                  [Rule Engine Logic]
+                                          ⬇
+                            [Final Decision JSON] --> [Frontend Display]
+
+
+7. * **Intelligent Routing Engine**
     * **Fast-Track :** Auto-approves clean claims under $25,000.
     * **Investigation :** Flags claims with suspicious keywords ("staged", "fraud", "inconsistent").
     * **Specialist :** Routes bodily injury claims to medical specialists.
     * **Standard Processing :** Handles high-value claims (>$25k) for senior adjusters.
     * **Manual Review :** Catches claims with missing mandatory data.
 
-* **Robust Fault Tolerance**
+8. * **Robust Fault Tolerance**
     Implements a **"Smart Fallback"** strategy. If the primary PDF parser (`pdf2json`) encounters a corrupted file (e.g., non-standard XRef headers from web converters) or if the AI API is unreachable, the system automatically switches to a backup logic flow to ensure zero downtime during demonstrations.
 
-* **Responsive Frontend**
+9. * **Responsive Frontend**
     A modern, mobile-friendly React interface with real-time status feedback and visual cues for claim recommendations.
 
-* **Deployment Ready**
+10. * **Deployment Ready**
     Configured for serverless deployment (Vercel) with cross-platform file handling.
 * **Sample files**
     Download the sample files present in samplefiles folder and test them.
@@ -34,6 +51,7 @@ The system intelligently extracts data from PDF/txt files, validates mandatory f
     https://synapx-assignment1.vercel.app
 
 ## Tech Stack
+
 
 | Component | Technology |
 | :--- | :--- |
@@ -145,8 +163,9 @@ The `ruleEngine.js` service evaluates extracted data based on the following hier
   * **Body:** `multipart/form-data` with a key `file`.
   * **Supported Formats:** `.pdf`, `.txt`
 
-**Sample Response:**
+** Sample Response: **
 
+```text
 RecommendedRoute
 Reasoning
 Mandatory fields are missing: estimatedDamage
