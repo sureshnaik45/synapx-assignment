@@ -29,6 +29,7 @@ The application follows a linear, deterministic flow to ensure security and accu
                                   [Rule Engine Logic]
                                           ⬇
                             [Final Decision JSON] --> [Frontend Display]
+```
 
 
 7. * **Intelligent Routing Engine**
