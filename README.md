@@ -17,6 +17,7 @@ The application follows a linear, deterministic flow to ensure security and accu
 5.  **Logic Engine:** The **Rule Engine** evaluates the extracted data against business rules (Fraud limits, Injury checks, Damage thresholds).
 6.  **Response:** The final decision (Route + Reasoning) is returned to the Frontend for display.
 
+```text
 [User Upload] 
       ⬇
 [React Frontend] --(API Request)--> [Express Backend]
