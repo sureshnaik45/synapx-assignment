@@ -32,24 +32,24 @@ The application follows a linear, deterministic flow to ensure security and accu
 ```
 
 
-7. * **Intelligent Routing Engine**
+7. **Intelligent Routing Engine:**
     * **Fast-Track :** Auto-approves clean claims under $25,000.
     * **Investigation :** Flags claims with suspicious keywords ("staged", "fraud", "inconsistent").
     * **Specialist :** Routes bodily injury claims to medical specialists.
     * **Standard Processing :** Handles high-value claims (>$25k) for senior adjusters.
     * **Manual Review :** Catches claims with missing mandatory data.
 
-8. * **Robust Fault Tolerance**
+8. **Robust Fault Tolerance:**
     Implements a **"Smart Fallback"** strategy. If the primary PDF parser (`pdf2json`) encounters a corrupted file (e.g., non-standard XRef headers from web converters) or if the AI API is unreachable, the system automatically switches to a backup logic flow to ensure zero downtime during demonstrations.
 
-9. * **Responsive Frontend**
+9. **Responsive Frontend:**
     A modern, mobile-friendly React interface with real-time status feedback and visual cues for claim recommendations.
 
-10. * **Deployment Ready**
+10. **Deployment Ready:**
     Configured for serverless deployment (Vercel) with cross-platform file handling.
-* **Sample files**
+* **Sample files:**
     Download the sample files present in samplefiles folder and test them.
-* **Live Link**
+* **Live Link:**
     https://synapx-assignment1.vercel.app
 
 ## Tech Stack
@@ -144,15 +144,15 @@ synapx-assignment/
 
 The `ruleEngine.js` service evaluates extracted data based on the following hierarchy (**Highest Priority first**):
 
-1.  **Priority 1:** **Investigation Flag**
+1.  **Priority 1:** **Investigation Flag:**
       * *Trigger:* Description contains "fraud", "staged", "suspicious".
-2.  **Priority 2:** **Manual Review**
+2.  **Priority 2:** **Manual Review:**
       * *Trigger:* Any mandatory field (Policy \#, Name, Date, Description, Damage) is null/missing.
-3.  **Priority 3:** **Specialist Queue**
+3.  **Priority 3:** **Specialist Queue:**
       * *Trigger:* `claimType` is "Bodily Injury" or description mentions medical terms.
-4.  **Priority 4:** **Standard Processing**
+4.  **Priority 4:** **Standard Processing:**
       * *Trigger:* `estimatedDamage` \>= $25,000.
-5.  **Priority 5:** **Fast-Track**
+5.  **Priority 5:** **Fast-Track:**
       * *Trigger:* `estimatedDamage` \< $25,000 AND no other flags are present.
 
 -----
@@ -165,7 +165,7 @@ The `ruleEngine.js` service evaluates extracted data based on the following hier
   * **Body:** `multipart/form-data` with a key `file`.
   * **Supported Formats:** `.pdf`, `.txt`
 
-** Sample Response: **
+### Sample Response:
 
 ```text
 RecommendedRoute
