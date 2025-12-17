@@ -1,0 +1,91 @@
+AUTOMOBILE LOSS NOTICE
+ACORD FORM 2 (2016/10)
+
+=== POLICY INFORMATION ===
+Policy Number: AUTO-2024-998877
+NAIC Code: 54321
+Carrier: Reliable Auto Insurance
+Line of Business: Personal Auto
+
+=== INSURED INFORMATION ===
+Name: David Thompson
+Date of Birth: 07/22/1990
+Address: 987 Pine Road, Miami, FL 33101
+Primary Phone: (305) 555-0198
+Email: dthompson90@email.com
+Marital Status: SINGLE
+
+=== INCIDENT INFORMATION ===
+Date of Loss: 11/30/2024
+Time: 11:45 PM
+Location of Loss:
+  Street: Empty parking lot at 5500 NW 72nd Avenue
+  City: Miami
+  State: FL
+  ZIP: 33166
+  Country: USA
+
+Police Report: YES
+Report Number: MPD-2024-45632
+Police Department: Miami-Dade Police Department
+
+=== DESCRIPTION OF ACCIDENT ===
+The accident occurred late at night in an empty parking lot. The insured claims another vehicle struck his car and then fled the scene. However, the damage pattern appears inconsistent with the reported collision angle. The insured mentioned he was meeting someone for a "business transaction" but details were vague. There are conflicting statements about whether the vehicle was parked or moving at the time of impact. The location is known for staged accidents according to local reports. No witnesses present. The insured changed his story multiple times during the initial report.
+
+=== INSURED VEHICLE INFORMATION ===
+Vehicle #: 1
+Year: 2019
+Make: BMW
+Model: 328i
+Body Type: Sedan
+VIN: WBA8E1G59KNU12345
+License Plate: FLA-9988
+State: FL
+
+Owner Name: David Thompson
+Driver Name: David Thompson
+Driver's License: FL-T220-789-90-123-0
+Date of Birth: 07/22/1990
+Relation to Insured: Self
+
+Purpose of Use: Personal
+Permission to Use: YES
+
+=== DAMAGE INFORMATION ===
+Describe Damage: Extensive damage to entire left side - front fender, both doors, rear quarter panel all heavily damaged. Undercarriage damage also noted.
+Estimate Amount: $18,500
+Where Can Vehicle Be Seen: Mike's Auto Body, 1234 SW 8th Street, Miami, FL
+When Can Vehicle Be Seen: By appointment only
+
+Other Insurance on Vehicle: NO
+
+=== OTHER VEHICLE INFORMATION ===
+Vehicle Description: Dark colored sedan, possibly black or dark blue
+No further details available - FLED SCENE
+No license plate recorded
+No insurance information available
+
+=== WITNESSES ===
+NONE AVAILABLE
+
+=== ADDITIONAL NOTES ===
+- Insured purchased policy only 15 days before incident
+- This is the insured's second claim in 3 months
+- Previous address differs from current address
+- Vehicle was recently registered to insured (10 days before loss)
+
+=== CHILD SAFETY INFORMATION ===
+1. Was a child seat installed? NO
+2. Was a child seat in use? NO
+3. Did child seat sustain damage? N/A
+
+=== REPORTED BY ===
+Name: David Thompson
+Date Reported: 12/01/2024 (Reported next day)
+Reported To: Reliable Auto Insurance - Claims Hotline
+
+=== FRAUD NOTICE ===
+Any person who knowingly presents a false or fraudulent claim for payment of a loss is guilty of a crime and may be subject to fines and confinement in prison.
+
+Signature: David Thompson
+Date: 12/01/2024

@@ -1,0 +1,135 @@
+AUTOMOBILE LOSS NOTICE
+ACORD FORM 2 (2016/10)
+
+=== POLICY INFORMATION ===
+Policy Number: AUTO-2024-112233
+NAIC Code: 99887
+Carrier: Prestige Auto Insurance
+Line of Business: Personal Auto - Premium Coverage
+
+=== INSURED INFORMATION ===
+Name: Alexander Westwood III
+Date of Birth: 04/30/1978
+Address: 1500 Park Avenue, Apartment 25B, New York, NY 10029
+Primary Phone: (212) 555-0199 (CELL)
+Secondary Phone: (212) 555-0200 (HOME)
+Email: a.westwood@westwoodcapital.com
+Marital Status: MARRIED
+
+=== INCIDENT INFORMATION ===
+Date of Loss: 11/29/2024
+Time: 10:30 PM
+Location of Loss:
+  Street: Underground parking garage - 1500 Park Avenue
+  City: New York
+  State: NY
+  ZIP: 10029
+  Country: USA
+
+Police Report: YES
+Report Number: NYPD-2024-087654
+Police Department: New York Police Department - 23rd Precinct
+
+=== DESCRIPTION OF ACCIDENT ===
+The insured vehicle was properly parked in the insured's assigned parking space in the underground residential garage. At approximately 10:30 PM, a water main break occurred in the building. Water flooded the lower level of the parking garage where the vehicle was stored. The vehicle was submerged in approximately 4 feet of water for several hours before the water could be pumped out. Building management and emergency services responded. The insured discovered the damage when alerted by building security at 11:45 PM. The vehicle would not start and shows extensive water damage to interior and electrical systems. Building maintenance confirms the water main failure and has accepted responsibility for the infrastructure failure.
+
+=== INSURED VEHICLE INFORMATION ===
+Vehicle #: 1
+Year: 2024
+Make: Mercedes-Benz
+Model: S-Class S580
+Body Type: Sedan
+VIN: WDDUX8GB9PA123456
+License Plate: NY-WEST24
+State: NY
+
+Owner Name: Alexander Westwood III
+Driver Name: Alexander Westwood III
+Driver's License: NY-W234-5678-9012-34
+Date of Birth: 04/30/1978
+Relation to Insured: Self
+
+Purpose of Use: Personal and business
+Permission to Use: YES
+
+=== DAMAGE INFORMATION ===
+Describe Damage: Extensive water damage throughout vehicle. Water reached dashboard level. Complete interior water saturation - all carpeting, seats, door panels damaged. Electrical system compromised - vehicle will not start, multiple warning lights, infotainment system non-functional. Engine compartment flooded. Transmission potentially damaged. All electronics likely need replacement. Strong odor of mildew developing. Vehicle is likely a total loss.
+
+Estimate Amount: $78,500 (preliminary estimate - likely total loss, vehicle MSRP was $125,000)
+
+Where Can Vehicle Be Seen: Building parking garage - 1500 Park Avenue, New York, NY 10029, Space B-47
+When Can Vehicle Be Seen: Daily 8 AM - 8 PM with building security escort
+
+Other Insurance on Vehicle: NO
+
+=== PROPERTY DAMAGE (Non-Vehicle) ===
+Personal Property in Vehicle:
+- MacBook Pro laptop: Estimated value $2,800 - Water damaged
+- Briefcase with business documents: $500 - Water damaged  
+- Custom golf clubs in trunk: $4,200 - Water damaged
+- Designer sunglasses: $600 - Water damaged
+
+Total Personal Property Damage Estimate: $8,100
+
+=== BUILDING/THIRD PARTY INFORMATION ===
+Property Owner: Park Avenue Residential Management LLC
+Address: 1500 Park Avenue, New York, NY 10029
+Contact: Maria Santos - Building Manager
+Phone: (212) 555-0300
+Email: msantos@parkavemanagement.com
+
+Building Insurance:
+Carrier: Commercial Property Insurance Group
+Policy Number: CPG-2024-445577
+Contact: (212) 555-0400
+
+Note: Building management has acknowledged the water main failure was due to aging infrastructure and lack of proper maintenance. They have accepted liability for all damages resulting from the incident.
+
+=== OTHER AFFECTED VEHICLES ===
+Approximately 12 other vehicles in the garage sustained varying degrees of water damage. A comprehensive list is being compiled by building management.
+
+=== WITNESSES ===
+1. Marcus Johnson - Building Security
+   Phone: (212) 555-0301
+   On duty when incident occurred
+
+2. Dr. Patricia Lee - Fellow resident, parking space B-46
+   Address: 1500 Park Avenue, Apt 18C, New York, NY 10029
+   Phone: (212) 555-0422
+   Her vehicle also damaged
+
+=== DOCUMENTATION ===
+Photos taken: YES - 47 photos documenting water level, vehicle damage, and garage conditions
+Video taken: YES - 3 minute video of garage flooding and vehicle condition
+Building incident report: YES - Report #2024-1129-WM
+Fire department report: YES - FDNY Response #2024-112956
+
+=== CHILD SAFETY INFORMATION ===
+1. Was a child seat installed? NO
+2. Was a child seat in use? NO
+3. Did child seat sustain damage? N/A
+
+=== ADDITIONAL INFORMATION ===
+- Vehicle was purchased new 3 months ago
+- Vehicle has 2,400 miles
+- Regular maintenance up to date
+- No prior claims on this vehicle
+- Comprehensive coverage with $1,000 deductible
+- Agreed value policy for high-end vehicle
+
+=== REPORTED BY ===
+Name: Alexander Westwood III
+Date Reported: 11/29/2024 (Within 2 hours of discovery)
+Reported To: Prestige Auto Insurance - Premium Claims Line
+
+=== FRAUD NOTICE ===
+Any person who knowingly presents a false or fraudulent claim for payment of a loss is guilty of a crime and may be subject to fines and confinement in prison.
+
+Signature: Alexander Westwood III
+Date: 11/29/2024
+
+=== ADJUSTER NOTES ===
+Initial Classification: Potential Total Loss
+Priority: High Value Claim
+Recommended Action: Immediate adjuster assignment, independent appraisal required
+Building Liability: Subrogation potential against building management/property insurance

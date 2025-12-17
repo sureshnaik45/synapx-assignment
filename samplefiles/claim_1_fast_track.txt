@@ -1,0 +1,106 @@
+AUTOMOBILE LOSS NOTICE
+ACORD FORM 2 (2016/10)
+
+=== POLICY INFORMATION ===
+Policy Number: AUTO-2024-789456
+NAIC Code: 12345
+Carrier: SafeDrive Insurance Company
+Line of Business: Personal Auto
+
+=== INSURED INFORMATION ===
+Name: Robert Martinez
+Date of Birth: 03/15/1985
+Address: 456 Oak Avenue, Austin, TX 78701
+Primary Phone: (512) 555-0123 (CELL)
+Email: robert.martinez@email.com
+Marital Status: MARRIED
+
+=== INCIDENT INFORMATION ===
+Date of Loss: 11/28/2024
+Time: 2:30 PM
+Location of Loss:
+  Street: 1200 Congress Avenue
+  City: Austin
+  State: TX
+  ZIP: 78701
+  Country: USA
+
+Police Report: YES
+Report Number: APD-2024-11289
+Police Department: Austin Police Department
+
+=== DESCRIPTION OF ACCIDENT ===
+The insured vehicle was stopped at a red light at the intersection of Congress Avenue and 6th Street. A delivery truck behind the insured failed to stop in time and rear-ended the vehicle at low speed. The impact caused minor damage to the rear bumper. No injuries reported. Weather was clear, road conditions were dry. The other driver admitted fault at the scene.
+
+=== INSURED VEHICLE INFORMATION ===
+Vehicle #: 1
+Year: 2022
+Make: Honda
+Model: Civic
+Body Type: Sedan
+VIN: 1HGBH41JXMN109186
+License Plate: ABC-1234
+State: TX
+
+Owner Name: Robert Martinez (SAME AS INSURED)
+Driver Name: Robert Martinez (SAME AS INSURED)
+Driver's License: TX-12345678
+Date of Birth: 03/15/1985
+Relation to Insured: Self
+
+Purpose of Use: Commuting to work
+Permission to Use: YES
+
+=== DAMAGE INFORMATION ===
+Describe Damage: Rear bumper dented, scratches on rear panel, taillight cracked
+Estimate Amount: $2,800
+Where Can Vehicle Be Seen: Insured's residence - 456 Oak Avenue, Austin, TX
+When Can Vehicle Be Seen: Weekdays after 6 PM, Weekends anytime
+
+Other Insurance on Vehicle: NO
+
+=== OTHER VEHICLE INFORMATION ===
+Year: 2021
+Make: Ford
+Model: Transit
+Body Type: Van
+License Plate: XYZ-9876
+State: TX
+
+Driver Name: Michael Chen
+Address: 789 Delivery Lane, Austin, TX 78702
+Phone: (512) 555-0456
+Email: mchen@quickdelivery.com
+
+Owner Name: QuickDelivery Services LLC
+Address: 789 Delivery Lane, Austin, TX 78702
+Phone: (512) 555-0400
+
+Other Vehicle Insurance: YES
+Carrier: Commercial Auto Insurance Co.
+Policy Number: COMM-2024-55667
+
+Describe Damage: Minor front bumper scratches
+Estimate: $800
+
+=== WITNESSES ===
+1. Jennifer Lopez
+   Address: 234 West 6th Street, Austin, TX 78701
+   Phone: (512) 555-0789
+   Relation: Pedestrian witness
+
+=== CHILD SAFETY INFORMATION ===
+1. Was a child seat installed? NO
+2. Was a child seat in use? NO
+3. Did child seat sustain damage? N/A
+
+=== REPORTED BY ===
+Name: Robert Martinez
+Date Reported: 11/28/2024
+Reported To: SafeDrive Insurance Company - Claims Department
+
+=== FRAUD NOTICE ===
+Any person who knowingly presents a false or fraudulent claim for payment of a loss is guilty of a crime and may be subject to fines and confinement in prison.
+
+Signature: Robert Martinez
+Date: 11/28/2024

@@ -9,6 +9,10 @@ The system intelligently extracts data from PDF/txt files, validates mandatory f
 * **AI-Powered Extraction**
     Utilizes **Llama 3.3 (via Groq)** to extract 15+ key data points (Policy #, Date, Location, Asset ID, etc.) from txt/pdf files.
 
+* **Secure Gatekeeper & Validation**
+    * **Spam Prevention:** The system implements a strict "Gatekeeper" rule. If an uploaded document is not a valid insurance claim (e.g., random text, marketing material, or corrupt files), it is **immediately rejected**.
+    * **No "Hallucinations":** Unlike basic demos that return fake data on error, this agent returns `null` for missing fields, triggering a "Manual Review" or "Rejection" to ensure 100% data integrity.
+
 * **Intelligent Routing Engine**
     * **Fast-Track :** Auto-approves clean claims under $25,000.
     * **Investigation :** Flags claims with suspicious keywords ("staged", "fraud", "inconsistent").
@@ -24,6 +28,10 @@ The system intelligently extracts data from PDF/txt files, validates mandatory f
 
 * **Deployment Ready**
     Configured for serverless deployment (Vercel) with cross-platform file handling.
+* **Sample files**
+    Download the sample files present in samplefiles folder and test them.
+* **Live Link**
+    https://synapx-assignment1.vercel.app
 
 ## Tech Stack
 
@@ -44,7 +52,7 @@ synapx-assignment/
 │   │   ├── controllers/
 │   │   │   └── claimController.js  # Orchestrates parsing, AI, and rules
 │   │   ├── services/
-│   │   │   ├── aiServices.js       # Groq API integration & Fallback Mock data
+│   │   │   ├── aiServices.js       # Groq API integration
 │   │   │   ├── pdfService.js       # pdf2json implementation
 │   │   │   └── ruleEngine.js       # Business logic for routing claims
 │   │   └── server.js               # Entry point & Route definitions
@@ -139,6 +147,10 @@ The `ruleEngine.js` service evaluates extracted data based on the following hier
 
 **Sample Response:**
 
+RecommendedRoute
+Reasoning
+Mandatory fields are missing: estimatedDamage
+⚠️ Missing: estimatedDamage
 ```json
 {
   "extractedFields": {
@@ -148,10 +160,7 @@ The `ruleEngine.js` service evaluates extracted data based on the following hier
     "incidentDescription": "Rear-ended at a stop light.",
     "claimType": "Collision",
     "estimatedDamage": 1500
-  },
-  "recommendedRoute": "Fast-track",
-  "reasoning": "Clean claim under $25,000 threshold with no flags.",
-  "missingFields": []
+  }
 }
 ```
 

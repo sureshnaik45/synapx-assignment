@@ -15,16 +15,16 @@ exports.processClaim = async (req, res) => {
 
         // 2. Ingestion Strategy
         if (req.file.mimetype === 'application/pdf') {
-            console.log("📄 Detected PDF. Using pdf2json parser...");
+            console.log("Detected PDF. Using pdf2json parser...");
             const buffer = fs.readFileSync(req.file.path);
             
             // Clean, awaitable call. No hacks. No version checks.
             rawText = await parsePDF(buffer);
             
-            console.log("✅ PDF Parsed Successfully");
+            console.log("PDF Parsed Successfully");
         
         } else {
-            console.log("📄 Detected Text File.");
+            console.log("Detected Text File.");
             rawText = fs.readFileSync(req.file.path, 'utf8');
         }
 

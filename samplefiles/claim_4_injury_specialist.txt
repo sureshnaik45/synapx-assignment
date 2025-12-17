@@ -1,0 +1,147 @@
+AUTOMOBILE LOSS NOTICE
+ACORD FORM 2 (2016/10)
+
+=== POLICY INFORMATION ===
+Policy Number: AUTO-2024-445566
+NAIC Code: 67890
+Carrier: Premier Protection Insurance
+Line of Business: Personal Auto
+
+=== INSURED INFORMATION ===
+Name: Emily Rodriguez
+Date of Birth: 09/14/1982
+Address: 567 Elm Street, Seattle, WA 98101
+Primary Phone: (206) 555-0167 (CELL)
+Secondary Phone: (206) 555-0168 (HOME)
+Email: emily.rodriguez@email.com
+Marital Status: MARRIED
+
+=== INCIDENT INFORMATION ===
+Date of Loss: 11/25/2024
+Time: 8:15 AM
+Location of Loss:
+  Street: Interstate 5 Southbound, Exit 165
+  City: Seattle
+  State: WA
+  ZIP: 98101
+  Country: USA
+
+Police Report: YES
+Report Number: WSP-2024-09871
+Police Department: Washington State Patrol
+
+=== DESCRIPTION OF ACCIDENT ===
+Multi-vehicle collision during morning rush hour. The insured was traveling southbound on I-5 when traffic suddenly stopped due to an accident ahead. The insured vehicle was able to stop safely. However, a pickup truck traveling behind failed to stop and rear-ended the insured vehicle at approximately 35 mph, pushing the insured vehicle into the vehicle ahead. The collision resulted in a chain reaction involving 4 vehicles total. Emergency services were called immediately. The insured complained of neck pain and was transported to Harborview Medical Center by ambulance. The passenger (spouse) also reported back pain and was evaluated at the scene.
+
+=== INSURED VEHICLE INFORMATION ===
+Vehicle #: 1
+Year: 2023
+Make: Subaru
+Model: Outback
+Body Type: SUV
+VIN: 4S4BTANC9P3123456
+License Plate: WA-ABC123
+State: WA
+
+Owner Name: Emily Rodriguez
+Driver Name: Emily Rodriguez
+Driver's License: WA-RODRIE482M9
+Date of Birth: 09/14/1982
+Relation to Insured: Self
+
+Purpose of Use: Commuting to work
+Permission to Use: YES
+
+=== DAMAGE INFORMATION ===
+Describe Damage: Severe rear-end damage - rear bumper destroyed, trunk damaged and won't close, rear lights broken, rear axle may be damaged. Front bumper also damaged from being pushed into vehicle ahead.
+Estimate Amount: $12,400
+Where Can Vehicle Be Seen: Towed to Secure Storage Lot, 890 Industrial Way, Seattle, WA 98134
+When Can Vehicle Be Seen: Monday-Friday 9 AM - 5 PM
+
+Other Insurance on Vehicle: NO
+
+=== OTHER VEHICLE INFORMATION ===
+Vehicle #1 (At-Fault):
+Year: 2018
+Make: Ford
+Model: F-150
+Body Type: Pickup
+License Plate: WA-XYZ789
+State: WA
+VIN: 1FTFW1E89JFC12345
+
+Driver Name: James Mitchell
+Address: 234 Lake Road, Tacoma, WA 98402
+Phone: (253) 555-0234
+Email: jmitchell@email.com
+
+Owner: James Mitchell (Same as driver)
+
+Insurance: YES
+Carrier: Statewide Insurance Company
+Policy Number: COMM-2024-78965
+
+Describe Damage: Front-end damage, hood bent, radiator leaking
+Estimate: $8,900
+
+Vehicle #2 (Pushed Into):
+Year: 2021
+Make: Tesla
+Model: Model 3
+License Plate: WA-EV4567
+State: WA
+
+Driver Name: Lisa Chen
+Phone: (206) 555-0345
+
+Insurance: YES
+Carrier: Electric Vehicle Insurance
+Policy Number: EV-2024-33221
+
+Describe Damage: Rear bumper damage
+Estimate: $4,500
+
+=== INJURY INFORMATION ===
+Injured Party 1:
+Name: Emily Rodriguez (Insured/Driver)
+Age: 42
+Extent of Injury: Neck pain, whiplash symptoms, headache. Transported to Harborview Medical Center. Treated and released same day. Follow-up with orthopedic specialist scheduled for 12/02/2024. Currently experiencing ongoing neck stiffness and headaches. Work status: Off work for 1 week per doctor's orders.
+
+Injured Party 2:
+Name: Carlos Rodriguez (Passenger/Spouse)
+Age: 44
+Extent of Injury: Lower back pain, possible soft tissue injury. Evaluated by paramedics at scene, declined ambulance transport. Self-presented to ER later that day due to increasing pain. Prescribed muscle relaxants and pain medication. Follow-up scheduled with primary care physician.
+
+=== WITNESSES ===
+1. Officer Mark Stevens
+   Washington State Patrol
+   Phone: (206) 555-0911
+   Badge: 4567
+
+2. Amanda Wright
+   Address: 432 Cherry Street, Seattle, WA 98102
+   Phone: (206) 555-0456
+   Relation: Motorist who stopped to help
+
+=== CHILD SAFETY INFORMATION ===
+1. Was a child seat installed? NO
+2. Was a child seat in use? NO
+3. Did child seat sustain damage? N/A
+
+=== MEDICAL TREATMENT ===
+Hospital: Harborview Medical Center
+Address: 325 9th Avenue, Seattle, WA 98104
+Phone: (206) 744-3000
+Date of Treatment: 11/25/2024
+Ambulance Company: Seattle Fire Department - Medic 1
+
+=== REPORTED BY ===
+Name: Emily Rodriguez
+Date Reported: 11/25/2024 (Same day from hospital)
+Reported To: Premier Protection Insurance - Emergency Claims Line
+
+=== FRAUD NOTICE ===
+Any person who knowingly presents a false or fraudulent claim for payment of a loss is guilty of a crime and may be subject to fines and confinement in prison.
+
+Signature: Emily Rodriguez
+Date: 11/25/2024

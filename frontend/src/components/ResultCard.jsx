@@ -5,14 +5,16 @@ const ResultCard = ({ result }) => {
 
   // Visual cues for different routes
   const getStatusColor = (route) => {
-    if (route === 'Fast-track') return '#d4edda'; // Green bg
-    if (route === 'Investigation Flag') return '#f8d7da'; // Red bg
+    if (route === 'Fast-track') return '#d4edda';
+    if (route === 'Investigation Flag') return '#f8d7da';
+    if (route === 'Rejected') return '#e2e3e5';
     return '#fff3cd'; // Orange bg (Manual/Specialist)
   };
 
   const getBorderColor = (route) => {
     if (route === 'Fast-track') return '#28a745';
     if (route === 'Investigation Flag') return '#dc3545';
+    if (route === 'Rejected') return '#6c757d';
     return '#ffc107';
   };
 
